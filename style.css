@@ -1,0 +1,48 @@
+body{
+  background-color: #b0ea6a;
+  text-align: center;
+  margin: 100px;
+  font-family: 'Shadows Into Light Two', cursive;
+  line-height: 2em;
+}
+.title{
+  display: flex;
+  justify-content: space-evenly;
+}
+h1{
+  font-size: 4em;
+  color: #fcfcd0;
+}
+label{
+  font-size: 1.8em;
+  color: #fcfcd0;
+  font-weight: bold;
+}
+.fizz{
+  height: 45px;
+  width: 80px;
+  background-color: yellow;
+  border-radius: 5px;
+  font-size: 1.5em;
+  font-family: 'Shadows Into Light Two';
+}
+.resultat{
+  height: 150px;
+  width: 260px;
+  border: none;
+  background-color: inherit;
+  font-size: 4em;
+  font-family: 'Shadows Into Light Two';
+}
+img{
+  display: block;
+  height: 100px;
+  width: 120px;
+  border-radius: 20px;
+}
+.img1{
+  float: left;
+}
+.img2{
+  float: right;
+}
